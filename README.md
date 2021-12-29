@@ -14,6 +14,8 @@
 - 🔧 Softwares e Ferramentas de Desenvolvimento: Wordpress, CMS Open Text, ATEX Polopoly, Agile BORIA, SAP e Pacote Office
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Rafsshik) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafsshik)
+
  
 
 
