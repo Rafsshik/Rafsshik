@@ -4,7 +4,7 @@
 
  ![image](https://user-images.githubusercontent.com/72576862/147656275-310fa407-45ba-4f10-9b66-723f710da410.png) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Rafsshik)
 
-###  Seja bem vindo(a)😃!
+###  Seja bem vindos(a)😃!
 
 
 
