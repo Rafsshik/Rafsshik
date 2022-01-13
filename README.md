@@ -10,6 +10,7 @@
 
 - 💻 Desenvolvedor Jr - SP
 - 📓 Linguagens: HTML, CSS, JavaScript, PHP
+- 📓 Frameworks: Laravel 
 - 📊 Banco De Dados: SQL Server, MongoDb
 - 🔧 Softwares e Ferramentas de Desenvolvimento: Wordpress, CMS Open Text, ATEX Polopoly, Agile BORIA, SAP e Pacote Office
 
