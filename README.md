@@ -77,12 +77,3 @@
 
 ---
 
-## 🎯 What I care about
-
-```txt
-Availability   ██████████  99.9%
-Observability  █████████░  dashboards, alerts, logs, metrics and tracing
-Automation     ██████████  reduce toil and speed up operations
-Reliability    █████████░  resilient systems and safer deploys
-Performance    ████████░░  latency, scaling and optimization
-Culture        █████████░  postmortems, ownership and continuous improvement
