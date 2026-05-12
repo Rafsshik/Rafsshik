@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Rafael Silva 👋</h1>
+<h1 align="center">Olá, eu sou Rafael (Thomaz) 👋</h1>
 
 <p align="center">
   <b>SRE | DevOps | Software Engineer</b><br>
